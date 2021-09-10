@@ -1,0 +1,11 @@
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.About.resources
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.NetworkingMainWnd.resources
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.Main.resources
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\MyTech Specialist Command Help Tool.vbproj.GenerateResource.Cache
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb

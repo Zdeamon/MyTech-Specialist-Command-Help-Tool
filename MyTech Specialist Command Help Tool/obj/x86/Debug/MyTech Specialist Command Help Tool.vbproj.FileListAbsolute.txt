@@ -1,0 +1,24 @@
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\MyTech Specialist Command Help Tool.vbproj.GenerateResource.Cache
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.About.resources
+C:\Users\HIPPIESLAIR\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.NetworkingMainWnd.resources
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\bin\Debug\MyTech Specialist Command Help Tool.exe
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\bin\Debug\MyTech Specialist Command Help Tool.pdb
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\bin\Debug\MyTech Specialist Command Help Tool.xml
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\obj\x86\Debug\WindowsApplication1.About.resources
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\obj\x86\Debug\WindowsApplication1.NetworkingMainWnd.resources
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\obj\x86\Debug\WindowsApplication1.Main.resources
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\obj\x86\Debug\MyTech Specialist Command Help Tool.vbproj.GenerateResource.Cache
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\obj\x86\Debug\MyTech Specialist Command Help Tool.exe
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\obj\x86\Debug\MyTech Specialist Command Help Tool.xml
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\obj\x86\Debug\MyTech Specialist Command Help Tool.pdb
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\obj\x86\Debug\WindowsApplication1.CheckPCInfoMainWnd.resources
+J:\Users\HIPPIESLAIR\documents\visual studio 2010\Projects\MyTech Specialist Command Help Tool\MyTech Specialist Command Help Tool\obj\x86\Debug\WindowsApplication1.PCTroubleshootingMainWnd.resources
